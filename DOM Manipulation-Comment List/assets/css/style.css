@@ -1,0 +1,8 @@
+.comments {
+  margin-top: 50px;
+}
+
+.comments article {
+  border-bottom: 1px dotted black;
+  margin-bottom: 20px;
+}
